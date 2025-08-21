@@ -6,4 +6,3 @@
 
 ### Contact Me
 [![Discord Presence](https://widgets.vendicated.dev/user?id=1402110464430706781&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=false&badges=false&guess-nitro=false&)](https://discord.com/users/788694370760261642)
-</div>
