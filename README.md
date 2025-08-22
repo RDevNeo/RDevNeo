@@ -4,4 +4,4 @@
 <img src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000" width="32"/> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="32"/> <img src="https://img.icons8.com/?size=100&id=4gUIAQbx9oh5&format=png&color=000000" width="32"/> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="32"/>
 
 ### Contact Me
-![Discord](https://img.shields.io/badge/rdevneo-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/rdevneo-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1402110464430706781)
