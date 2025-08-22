@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdevneo&layout=compact&theme=dark)
 
 ### Familiar Tools
@@ -5,3 +7,5 @@
 
 ### Contact Me
 [![Discord](https://img.shields.io/badge/rdevneo-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1402110464430706781)
+
+<div>
